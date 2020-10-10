@@ -1,0 +1,4 @@
+Symlinking /home/viresh/new_ws/devel/share/eufs_launcher/cmake/eufs_launcherConfig.cmake
+Symlinking /home/viresh/new_ws/devel/share/eufs_launcher/cmake/eufs_launcherConfig-version.cmake
+Symlinking /home/viresh/new_ws/devel/lib/pkgconfig/eufs_launcher.pc
+Symlinking /home/viresh/new_ws/devel/lib/python2.7/dist-packages/eufs_launcher/__init__.py
